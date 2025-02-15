@@ -2,10 +2,7 @@
 
 
 ### 👨🏻‍💻 &nbsp;About Me
-- ✍️ Currently I work as a Visual Communication Designer .
-- 🎓 Trying to graduate in Systems Development at Instituto Federal do Acre.
-- Currently studying at
-NODEJS, REACT, REACT NATIVE, TYPESCRIPT.
+- ✍️ Currently I work as web developer .
 
 ### Tech Stack:
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
