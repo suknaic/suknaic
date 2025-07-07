@@ -21,12 +21,6 @@
 
 
 
-Soft Skills:
-
-- Problem Solving.
-- TeamWork.
-- Communication 
-
 ***
 
 <p align="left">
